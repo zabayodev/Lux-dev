@@ -20,5 +20,13 @@ Data engineers often work as part of an analytics team alongside data scientists
 
 Data engineers deal with both structured and unstructured data. Structured data is information that can be organized into a formatted repository like a database. Unstructured data such as text, images, audio and video files that doesn't conform to conventional data models. Data engineers must understand different approaches to data architecture and applications to handle both data types. A variety of big data technologies, such as open source data ingestion and processing frameworks, are also part of the data engineer's toolkit.
 
+## Data Engineer Skills
+Data engineers are skilled in programming languages such as C#, Java, Python, R, Ruby, Scala and SQL. Python, R and SQL are the three most important languages data engineers use. Engineers need a good understanding of ETL tools and REST-oriented APIs for creating and managing data integration jobs. These skills also help in providing data analysts and business users with simplified access to prepared data sets.
+
+Data engineers must understand data warehouses and data lakes and how they work. For instance, Hadoop data lakes that offload the processing and storage work of established enterprise data warehouses support the big data analytics efforts data engineers work on. Data engineers must also understand NoSQL databases and Apache Spark systems, which are becoming common components of data workflows. Data engineers should have a knowledge of relational database systems as well, such as MySQL and PostgreSQL. Another focus is Lambda architecture, which supports unified data pipelines for batch and real-time processing.
+
+Business intelligence (BI) platforms and the ability to configure them are another important focus for data engineers. With BI platforms, they can establish connections among data warehouses, data lakes and other data sources. Engineers must know how to work with the interactive dashboards BI platforms use. Although machine learning is more in the data scientist's or the machine learning engineer's skill set, data engineers must understand it, as well, to be able to prepare data for machine learning platforms. They should know how to deploy machine learning algorithms and gain insights from them.
+
+Lastly, knowledge of Unix-based operating systems (OS) is important. Unix, Solaris and Linux provide functionality and root access that other OSes such as Mac OS and Windows -- don't. They give the user more control over the OS, which is useful for data engineers.
 
 
