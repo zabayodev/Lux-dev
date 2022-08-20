@@ -3,7 +3,7 @@ Data engineering is the practice of designing and building systems for collectin
 
 The amount of data an engineer works with varies with the organization, particularly with respect to its size. The bigger the organization, the more complex the analytics architecture, and the more data the engineer will be responsible for. Certain industries are more data-intensive, including healthcare, retail and financial services. Data engineers work in conjunction with data science teams while improving data transparency and enabling businesses to make more trustworthy business decisions.
 
-##Data Engineers roles
+## Data Engineers roles
 
 The data engineering field is divided into several roles such as the generalists,pipeline-centric engineers and database-centric engineers. The generalists which are  generally focused on a typical work on small teams, doing end-to-end data collection, intake and processing data. They may have more skill than most data engineers, but less knowledge of systems architecture. The generalists data engineers might undertake for a small, metro-area food delivery service which would be to create a dashboard that displays the number of deliveries made each day for the past month and forecasts the delivery volume for the next month.
 
