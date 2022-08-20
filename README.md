@@ -19,6 +19,6 @@ A database-centric project at a large, multistate or national food delivery serv
 Data engineers often work as part of an analytics team alongside data scientists. The engineers provide data in usable formats to the data scientists who run queries and algorithms against the information for predictive analytics, machine learning and data mining applications. Data engineers also deliver aggregated data to business executives and analysts and other end users so they can analyze it and apply the results to improving business operations.
 
 Data engineers deal with both structured and unstructured data. Structured data is information that can be organized into a formatted repository like a database. Unstructured data such as text, images, audio and video files that doesn't conform to conventional data models. Data engineers must understand different approaches to data architecture and applications to handle both data types. A variety of big data technologies, such as open source data ingestion and processing frameworks, are also part of the data engineer's toolkit.
-image.png
+
 
 
