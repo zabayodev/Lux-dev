@@ -2,6 +2,7 @@
 
 Data engineering is the practice of designing and building systems for collecting, storing, and analyzing data at scale. It is a broad field with applications in every industry worldwide. The companies using data engineering practice have the ability to collect a massive amount of data in each and every department and they need the right people with a knowledge in data engineering also known as data engineers and the specific technology to ensure that the data collected are usable and can add value to the company business by the time it reaches the data scientists and data analysts (Kalita, 2022). 
 
+
 In addition, data engineers ease the lives of data scientists and data analysts by cleaning and structuring the data before shipping to BI tools for generating insights. The amount of data an engineer works with varies with the organization, particularly with respect to the organization size. The bigger the organization, the more complex the analytics architecture and the more data the engineer will be responsible for while cleaning and structuring complex data. Certain industries are more data-intensive such as healthcare, retail and the company delivering a financial services. Data engineers work in conjunction with data science teams while improving data transparency and enabling businesses to make more trustworthy business decisions (Chang, 2018 ).
 
 ## Data Engineers roles
